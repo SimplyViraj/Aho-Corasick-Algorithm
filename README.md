@@ -10,6 +10,7 @@ Output Function: The algorithm employs an output function to determine the occur
 
 **Algorithm**
 Build Trie:
+
 Initialize a Trie data structure.
 For each pattern in the set of keywords:
 Insert the pattern into the Trie.
