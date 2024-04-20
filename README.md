@@ -44,6 +44,15 @@ Preprocessing (Building the Trie): O(m), where m is the total length of all keyw
 Building Failure Function: O(m), where m is the total length of all keywords.
 Searching (Finding Matches): O(n + z + occ), where n is the length of the text, z is the total number of occurrences of the keywords in the text, and occ is the number of occurrences reported.
 
+Test Case 1:
+Test Case:hekjshehkkslheghghnhe
+Pattern:he
+ ![image](https://github.com/SimplyViraj/Aho-Corasick-Algorithm/assets/132010512/05c34d5d-4495-4777-bbed-50f1ce705297)
+
+ Test Case 2:
+
+
+
 **Usage**
 The Aho-Corasick algorithm can be employed in various applications, including:
 
