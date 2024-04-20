@@ -50,6 +50,16 @@ Pattern:he
  ![image](https://github.com/SimplyViraj/Aho-Corasick-Algorithm/assets/132010512/05c34d5d-4495-4777-bbed-50f1ce705297)
 
  Test Case 2:
+Test case: thequickbrownfoxjumpsoverthelazydog
+Pattern:la
+![image](https://github.com/SimplyViraj/Aho-Corasick-Algorithm/assets/132010512/343b891d-f6d0-43b1-ac15-cfcd7bc5964a)
+
+Test Case 3:
+Test case: 
+test case:aabha
+pattern:aa
+![image](https://github.com/SimplyViraj/Aho-Corasick-Algorithm/assets/132010512/474813a9-ee93-4439-b032-f4585132fc6e)
+
 
 
 
